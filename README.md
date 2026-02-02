@@ -1,4 +1,4 @@
-# 🍽️🚁 Food & Drone Delivery Platform
+# 🍽️🚁 Food App
 
 [![GitHub stars](https://img.shields.io/github/stars/DARSHAN2224/Drone-Delivery-for-College-Campus?style=social)](https://github.com/DARSHAN2224/Drone-Delivery-for-College-Campus/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/DARSHAN2224/Drone-Delivery-for-College-Campus?style=social)](https://github.com/DARSHAN2224/Drone-Delivery-for-College-Campus/network/members)
